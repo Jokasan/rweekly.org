@@ -34,6 +34,7 @@ This week’s release was curated by [](), with help from the R Weekly team memb
 
 ### Tutorials
 
++ [Building an R Weekly Highlights Podcast Asisstant with Shiny](https://jokasan.github.io/r-weekly_chatbot/)
 
 ### Resources
 
